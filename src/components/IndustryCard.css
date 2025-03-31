@@ -1,0 +1,32 @@
+.industry-card{
+    width: 22%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    padding: 13px 0 0 0;
+    min-height: 240px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 
+                    0 -4px 8px rgba(0, 0, 0, 0.2), 
+                    4px 0 8px rgba(0, 0, 0, 0.2), 
+                    -4px 0 8px rgba(0, 0, 0, 0.2);
+}
+ 
+.industry-image{
+    width: 80%;
+    border-radius: 20px;
+    transition: transform 0.9s ease;
+}
+.industry-image:hover{
+    transform: scale(1.1);
+}
+.industry-title{
+  color:#004c97;
+  font-family:"Roboto";
+  font-weight: bold;
+  font-size: 20px;
+  font-style: normal;
+}
