@@ -1,5 +1,5 @@
 import "./AllPlantsDetails.css"
-import cc from "../assets/cc.png"
+import cc from "../assets/CCTVimages.jpg"
 
 const   CcDetails = () => {
   return (

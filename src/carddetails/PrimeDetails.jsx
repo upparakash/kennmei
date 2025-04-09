@@ -5,12 +5,12 @@ const   PrimeDetails = () => {
   return (
     <div className="sewage-container">
         
-        <h1 className="all-title">KENNWEI PRIME RO UV Water Purifier</h1>
+        <h1 className="all-title">KENNWEI PRIME + RO UV Water Purifier</h1>
         <div className="all-container">
            <img src={pro} className="all-image" alt="all-image"/>
            <div className="all-sub-container">
               <p className="all-description">
-              ✅ RO + UF + UV Mineral Technology,
+              ✅ RO + UF + Double UV Mineral Technology,
                
 
               ✅ 9 Stage Punfication,
