@@ -107,6 +107,7 @@ const  Header = () => {
             </li>
             <li><a href="/brochure">Brochure</a></li>
             <li><a href="/contact">Contact</a></li>
+            <li><a href="/Gallery">Gallery</a></li>
             <li className="enquire-button">
               <a href="/enquire" className="btn-enquire">Enquire Now</a>
             </li>

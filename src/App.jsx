@@ -3,6 +3,7 @@ import Header1 from "./components/Header1";
 import Body from "./components/Body";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Gallery from "./components/Gallery";
 import Footer from "./components/Footer";
 
 import StpDetails from "./carddetails/StpDetails";
@@ -56,6 +57,7 @@ const App = () => (
     <Route path="/intercomDetails" element={<IntercomDetails/>} />
     <Route path="/about" element={<About/>} />
     <Route path="/contact" element={<Contact/>} />
+    <Route path="/Gallery" element={<Gallery/>} />
     
   </Routes>
   <Footer/>
