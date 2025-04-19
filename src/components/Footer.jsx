@@ -149,10 +149,34 @@ const Footer = () => {
         <div className="footer-section">
           <h3>Follow Me</h3>
           <div className="social-icons">
-            <FaFacebook />
-            <FaTwitter />
-            <FaInstagram />
-            <FaYoutube />
+          <a
+        href="https://www.facebook.com/share/197pGqCFfr/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaFacebook />
+      </a>
+      <a
+        href="https://x.com/VictoryyP78661?t=O63H5rMQ-4ilxwgdk2HWIA&s=09"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaTwitter />
+      </a>
+      <a
+        href="https://www.instagram.com/victoryy_aqua_cctv?igsh=MXhiOWRuOGN1ZWF6MQ=="
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaInstagram />
+      </a>
+      <a
+        href="https://www.youtube.com/@victoryywater"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaYoutube />
+      </a>
           </div>
         </div>
       </div>
